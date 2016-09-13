@@ -1,0 +1,35 @@
+html,body,ul,p, {
+  padding: 0;
+  margin: 0;
+}
+
+#section {
+  margin-top:50px;
+  background-color:#00adee;
+  height:350px;
+}
+
+#search {
+  margin-top:50px;
+  position:relative;
+  top:150px;
+}
+.options {
+  position : absolute;
+  top:3px;
+  width : 100%;
+}
+.select ul {
+  padding: 0px;
+}
+.select {
+    visibility : hidden;
+}
+
+.select ul li {
+  background-color: white;
+  display: block;
+  padding : 5px;
+  border: 1px solid black;
+
+}
