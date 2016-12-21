@@ -12,7 +12,7 @@ $mail->SMTPDebug = 2;
 //Ask for HTML-friendly debug output
 $mail->Debugoutput = 'html';                            // Enable verbose debug output
 
-// $mail->isSMTP();                                      // Set mailer to use SMTP
+$mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
 $mail->Username = 'username@google.com';                 // SMTP username
