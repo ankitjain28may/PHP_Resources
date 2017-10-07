@@ -1,7 +1,7 @@
 # PHP_Resources
 All the PHP related scripts are being listed here.
 
-##This comprises of the following scripts.
+## This comprises of the following scripts.
 
   1- [AutoSearch](https://github.com/ankitjain28may/PHP_Resources/tree/master/AutoSearch)
 
